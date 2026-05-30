@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencncrypt",
+        "uuid": 15250202,
+        "checksum": "dpugok"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
